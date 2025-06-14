@@ -58,7 +58,16 @@ This project covers web scraping, data wrangling, and exploratory data analysis 
   - `unicodedata` — text normalization.
 
 ---
+## Falcon 9 Launch Site Visualization
+  -This part of the project uses Folium to create interactive maps showing SpaceX Falcon 9 launch sites. Key features include:
 
+  -Displaying launch locations with markers indicating mission success.
+
+  -Calculating and visualizing distances between launch sites and nearby infrastructure.
+
+  -Providing an intuitive geospatial overview of launch operations.
+
+  -This visualization helps in understanding spatial relationships and success rates of Falcon 9 launches through interactive mapping.
 ## Usage Instructions
 
 1. **Clone the repository** and navigate to the working directory.
